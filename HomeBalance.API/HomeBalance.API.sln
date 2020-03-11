@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeBalance.API", "HomeBalance.API.csproj", "{51EE9135-B899-41EA-A5C1-D8AF794A1C9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51EE9135-B899-41EA-A5C1-D8AF794A1C9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51EE9135-B899-41EA-A5C1-D8AF794A1C9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51EE9135-B899-41EA-A5C1-D8AF794A1C9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51EE9135-B899-41EA-A5C1-D8AF794A1C9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87D421D5-FA64-49C4-A3B4-0DC2BACA8318}
+	EndGlobalSection
+EndGlobal
