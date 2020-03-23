@@ -15,8 +15,6 @@ namespace HomeBalance.API.Data
         }
 
         public DbSet<Cuenta> Cuentas { get; set; }
-
-
-
+        public DbSet<User> Users { get; set; }
     }
 }

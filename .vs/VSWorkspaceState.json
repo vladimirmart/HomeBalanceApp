@@ -1,8 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\HomeBalance-SPA\\src",
-    "\\HomeBalance-SPA\\src\\app"
+    "\\HomeBalance.API"
   ],
+  "SelectedNode": "\\HomeBalance.API\\Models",
   "PreviewInSolutionExplorer": false
 }
