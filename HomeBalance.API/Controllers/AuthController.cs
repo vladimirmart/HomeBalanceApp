@@ -50,6 +50,8 @@ namespace HomeBalance.API.Controllers
         [HttpPost("login")]
         public async Task<IActionResult> Login(UserForLoginDTO userForLoginDTO)
         {
+            throw new Exception("Locura azuta");
+
             var userFromRepo = await this.repo.Login(userForLoginDTO.Username, userForLoginDTO.Password);
             if (userFromRepo == null)
                 return Unauthorized();

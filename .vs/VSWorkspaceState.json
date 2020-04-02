@@ -4,10 +4,11 @@
     "\\HomeBalance-SPA\\e2e",
     "\\HomeBalance-SPA\\src",
     "\\HomeBalance-SPA\\src\\app",
+    "\\HomeBalance-SPA\\src\\app\\home",
     "\\HomeBalance-SPA\\src\\app\\nav",
-    "\\HomeBalance.API",
-    "\\HomeBalance.API\\Model"
+    "\\HomeBalance-SPA\\src\\app\\register",
+    "\\HomeBalance-SPA\\src\\app\\_services",
+    "\\HomeBalance.API\\DTOs"
   ],
-  "SelectedNode": "\\HomeBalance.API\\Model",
   "PreviewInSolutionExplorer": false
 }
