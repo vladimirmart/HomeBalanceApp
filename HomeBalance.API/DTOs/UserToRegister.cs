@@ -12,7 +12,7 @@ namespace HomeBalance.API.DTOs
         public string Username { get; set; }
 
         [Required]
-        [StringLength(10, MinimumLength = 4, ErrorMessage = "Locura en el")]
+        [StringLength(12, MinimumLength = 8, ErrorMessage = "Debe tener mas de 8 caracteres")]
         public string Password { get; set; }        
     }
 }

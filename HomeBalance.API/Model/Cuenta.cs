@@ -12,14 +12,7 @@ namespace HomeBalance.API.Model
         public String BankName { get; set; }
         public String AccountType { get; set; }
         public int Balance { get; set; }
-
-        private double[] historyBalance;
-        
-
-        
-
-
-
+        public List<AccountState> Historicos { get; set; }
 
     }
 }
